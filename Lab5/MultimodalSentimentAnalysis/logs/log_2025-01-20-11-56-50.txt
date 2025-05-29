@@ -1,0 +1,11 @@
+Training log
+Model: ViT-L/14@336px
+Fusion: none
+Ablation: image_only
+Epoch 1 Train Loss: 1.0363 Train Acc: 50.09% Val Loss: 0.9108 Val Acc: 57.6000% Val Prec: 0.4902 Val Rec: 0.5760 Val F1: 0.5214 Patience: 0 lr: 2.8265921520376488e-05 weights: None
+Epoch 2 Train Loss: 0.9698 Train Acc: 57.60% Val Loss: 0.8113 Val Acc: 68.0000% Val Prec: 0.6696 Val Rec: 0.6800 Val F1: 0.6349 Patience: 0 lr: 7.652889661346132e-05 weights: None
+Epoch 3 Train Loss: 0.8785 Train Acc: 65.86% Val Loss: 0.7264 Val Acc: 73.0000% Val Prec: 0.7066 Val Rec: 0.7300 Val F1: 0.7008 Patience: 0 lr: 9.999833538368041e-05 weights: None
+Epoch 4 Train Loss: 0.8161 Train Acc: 70.29% Val Loss: 0.6899 Val Acc: 73.0000% Val Prec: 0.7101 Val Rec: 0.7300 Val F1: 0.7127 Patience: 0 lr: 9.486994195488218e-05 weights: None
+Epoch 5 Train Loss: 0.7827 Train Acc: 72.54% Val Loss: 0.6647 Val Acc: 74.6000% Val Prec: 0.7264 Val Rec: 0.7460 Val F1: 0.7312 Patience: 0 lr: 8.085454584064735e-05 weights: None
+Epoch 6 Train Loss: 0.7605 Train Acc: 74.17% Val Loss: 0.6473 Val Acc: 74.8000% Val Prec: 0.7258 Val Rec: 0.7480 Val F1: 0.7311 Patience: 1 lr: 6.0728068128953324e-05 weights: None
+Epoch 7 Train Loss: 0.7408 Train Acc: 75.31% Val Loss: 0.6399 Val Acc: 74.6000% Val Prec: 0.7237 Val Rec: 0.7460 Val F1: 0.7290 Patience: 2 lr: 3.847680456565169e-05 weights: None
