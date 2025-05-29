@@ -1,0 +1,11 @@
+model,kmeans_ari,dbscan_ari
+lenet,0.9072,0.9455
+alexnet,0.5388,0.9677
+resnet18,0.5907,0.9901
+googlenet,0.7681,0.9872
+vgg11,0.8666,0.9750
+efficientnet,0.7759,0.9762
+mnasnet,0.5873,0.9867
+mobilenetv3,0.6895,0.9810
+shufflenetv2,0.9638,0.9831
+squeezenet,0.7390,0.9903
