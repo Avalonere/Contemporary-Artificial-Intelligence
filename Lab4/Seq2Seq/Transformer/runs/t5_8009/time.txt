@@ -1,0 +1,2 @@
+Train time: 7138.73 s
+Predict time: 387.43 s
